@@ -1,2 +1,2 @@
 # ANZ_Project_2023_VirtualInternship
-Cyber Security Management Virtual Experience Program - Intern
+Gained experience in Social Engineering Investigation (via Email analysis) and Digital Investigation (via packet capture investigation)
